@@ -1,4 +1,4 @@
 (function(x,y) {
-
+if (x==y) sysout(x)
 })(10,20);
 
